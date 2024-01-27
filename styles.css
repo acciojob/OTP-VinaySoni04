@@ -50,6 +50,7 @@ input:focus {
 	display: flex;
 	flex-direction: column;
 	border: 2px solid black;
+	border-radius:10px;
 	align-items: center;
 	height:55vh;
 	padding:30px
